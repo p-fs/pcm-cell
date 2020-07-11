@@ -1,0 +1,23 @@
+# Files associated with the deployed verison of the program.
+BaxterAlgorithms/
+
+# File that changes when the user opens experiments.
+variables.mat
+
+# Auto save files.
+*.asv
+
+# Temporary backup files.
+*.bak
+
+# Temporary files created by latex.
+*.synctex
+*.synctex.gz
+*.aux
+*.bbl
+*.blg
+*.log
+*.toc
+
+# System files on Mac.
+*.DS_Store
